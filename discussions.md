@@ -1,7 +1,8 @@
 # Notes on discussions with project team members
 
-## Team 1, [Barcode Partitioning](https://github.com/NCBI-Hackathons/Barcode_Partitioning)
-*By Brian, Tuesday morning*
+## Teams that have contributed:
+**Team 1, [Barcode Partitioning](https://github.com/NCBI-Hackathons/Barcode_Partitioning)** *Brian, Tuesday morning*
+**Team 5, [Shiny app for visualization of protein correlation](https://github.com/NCBI-Hackathons/Proteomic_Correlation_Shiny)** *Peter, Tuesday lunch*
 
 **What has surprised you?**
 
@@ -20,7 +21,7 @@
 
 > The team's project was given to the team by someone who is not on the team or in the hackathon, so that has been challenging in the sense of most of the team members were not coming directly from the problem space of the project.
 
->Colleague with Shiny expertise was sick and pulled out last minute.
+>Colleague with ```Shiny``` expertise was sick and pulled out last minute.
 
 >Having to give up on details associated with the goals - ensuring consistent formatting, using best practices - these goals quickly break down. This seems typical of hackathon code. Taking time to write a proper function is a time luxury. Code testing is also early to go.
  
