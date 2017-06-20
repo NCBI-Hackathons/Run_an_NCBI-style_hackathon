@@ -1,4 +1,4 @@
-# Notes on discussion with project team members
+# Notes on discussions with project team members
 
 ## Team 1, Barcoding project
 *By Brian, Tuesday morning*
