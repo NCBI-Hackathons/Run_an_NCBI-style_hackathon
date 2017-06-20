@@ -1,6 +1,6 @@
 # Notes on discussions with project team members
 
-## Team 1, Barcoding project
+## Team 1, [Barcode Partitioning](https://github.com/NCBI-Hackathons/Barcode_Partitioning)
 *By Brian, Tuesday morning*
 
 **What has surprised you?**
