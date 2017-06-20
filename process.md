@@ -1,22 +1,26 @@
 # Organizing and setting up the hackathon
+```Written by: Peter Oxley```
+
 ## Selecting Topics
 **By request: Some people will have projects they want to lead**
 
-    * Project Description: What need will your project fulfill? What do you want its functionality to be?
-    * General Project Goals: What do you want the end product to be, and how do you want to get there?
-    * What are your strengths, and what types of skills might you rely on your team members for? : If you're going to need a proficient programmer in a given language, tell us about it here.
-    * Please specify any atypical software you may need.
-	*I anticipate my project will involve more than 3TB of data
+* Project Description: What need will your project fulfill? What do you want its functionality to be?
+* General Project Goals: What do you want the end product to be, and how do you want to get there?
+* What are your strengths, and what types of skills might you rely on your team members for? : If you're going to need a proficient programmer in a given language, tell us about it here.
+* Please specify any atypical software you may need.
+* I anticipate my project will involve more than 3TB of data
 
 **By relevance: How do we define a good problem**
  
  
 ## Selecting Participants
 #### Advertising
-	Reaching all the relevant people
+Reaching all the relevant people
+
 #### Inviting
 * Team lead
 * Forms: Data to collect:
+    * questions from June Hackathon's form
         * Do you have a working knowledge of shell scripting?
         * Do you use any other programming languages?
         * What is the primary research question you work on?
@@ -28,7 +32,6 @@
         * What is your approximate geographic location?
     * Making them machine readable: checkboxes over free text
  
- 
 #### Filtering
 * Criteria
 * Number of participants - factor in a 10% drop-out rate
@@ -36,12 +39,13 @@
  
 ## Creating a schedule
 #### Basic elements
-Time - how long to have a hackathon?
-1. The 24 hr model
-Problem with productivity - what are people really doing at 2am?
- 
-2. The three day model
-Difficulty with participating - having to take three days off work.
+**Time** - how long to have a hackathon?
+
+| Option | Pros | Cons |
+| The 24 hr model. |  Less up front commitment, since it is over after a day (though need time to recover?) |  Problem with productivity - what are people really doing at 2am? |
+| The three day model |  Everyone gets to sleep, focus productivity during day. | Harder to recruit, since participants have to take three days off work, other work builds up. |
+|---| Time for socialising and team building |---|
+
  
 #### Example schedule
 ```
@@ -57,17 +61,17 @@ Day 1
                 All teams return to main location
 12:15 - 1:00:   Working lunch and sharing of initial searches and discussion between groups (catered lunch opt-in 1; see poll)
                 Split into locations for teams (see team spreadsheet -- tab "locations)
-1:00 - 6:00:    Pipeline building <script building>
-NCBIrepresentatives present to help with pipelines
+1:00 - 6:00:    Pipeline building [script building]
+                NCBIrepresentatives present to help with pipelines
 6:00 - 7:30:    DINNER (on your own or with group members)
-7:30 - 8:30:    Implement any remaining code/start pipelines (remote is an option) <script building>
+7:30 - 8:30:    Implement any remaining code/start pipelines (remote is an option) [script building]
  
 Day 2
 9:00 - 9:15:    Presentation: 
 9:15 - 12:30:   Data cleanup, code fixing, and presentation generation
 12:30 - 1:30    Working lunch (catered lunch opt-in 2; see poll) Each section presents four slides; opportunity for exchange of ideas (and personnel if necessary)
 1:30 - 6:00:    Pipeline fixing and implementing suggestions from other group; more data runs
-2:30 Coffee break (Location)!
+2:30            Coffee break (Location)!
 4:00 - 5:00     Writers group breakout 1
 6:30 - 8:30:    GROUP DINNER (see poll); opportunity for feedback on organizational structure and future projects
  
@@ -89,13 +93,15 @@ Day 3
 4:45 - 4:55:    Marketing, community interaction, and longevity of code
                 Who is going to deal with future pull requests?
                 Awards ceremony!
-5:00 - 6:45: Final Presentations (5 slides per group)
+5:00 - 6:45:    Final Presentations (5 slides per group)
 ```
 
 ## Preparation
 #### Computational environment
-	User access
-	User privileges through central manager vs free for all
+
+* User access
+* User privileges through central manager vs free for all
+
 #### Data sets
 For testing 
  
