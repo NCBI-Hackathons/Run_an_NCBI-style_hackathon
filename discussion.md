@@ -1,7 +1,7 @@
 # Notes on discussion with project team members
 
 ## Team 1, Barcoding project
-*Brian, Tuesday morning*
+*By Brian, Tuesday morning*
 
 **What has surprised you?**
 
