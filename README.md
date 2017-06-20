@@ -17,12 +17,19 @@ _Github repo with notes + an article_
 
 ## Table of Contents
 _For a draft online hackathon how-to textbook_
-### Part One: Introduction
+### [Part One: Introduction](https://github.com/NCBI-Hackathons/Librarian_led_Data_Scientist_training/blob/master/introduction.md)
+* Context and background
+* [Learning objectives](https://github.com/NCBI-Hackathons/Librarian_led_Data_Scientist_training/blob/master/learning%20objectives.md)
 
-### Part Two: Planning and Processes
+### [Part Two: Planning and Processes](https://github.com/NCBI-Hackathons/Librarian_led_Data_Scientist_training/blob/master/process.md)
+* [Pre-hackathon planning and team assignment](https://github.com/NCBI-Hackathons/Librarian_led_Data_Scientist_training/blob/master/social%20issues.md)
 
-### Part Three: Computing and Technical Issues
+### [Part Three: Computing and Technical Issues](https://github.com/NCBI-Hackathons/Librarian_led_Data_Scientist_training/blob/master/technological%20issues.md)
+* Infrastructure
+* Tools and technologies
 
-### Part Four: People and Teams
+### [Part Four: People and Teams](https://github.com/NCBI-Hackathons/Librarian_led_Data_Scientist_training/blob/master/outputs.md)
+* Team composition and roles
+* [Roles for librarians](https://github.com/NCBI-Hackathons/Librarian_led_Data_Scientist_training/blob/master/unique%20roles%20for%20librarians.md)
 
-### Part Five: Outputs and Documentation
+### [Part Five: Outputs and Documentation](https://github.com/NCBI-Hackathons/Librarian_led_Data_Scientist_training/blob/master/outputs.md)
