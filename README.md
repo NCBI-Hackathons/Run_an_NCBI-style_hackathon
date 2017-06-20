@@ -14,3 +14,15 @@ _Github repo with notes + an article_
 * Learning objectives
 * Required expertise
 * Some intangibles about human behavior and interactions
+
+##Table of Contents
+_For a draft online hackathon how-to textbook_
+#Part One: Introduction
+
+#Part Two: Planning and Processes
+
+#Part Three: Computing and Technical Issues
+
+#Part Four: People and Teams
+
+#Part Five: Outputs and Documentation
