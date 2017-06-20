@@ -17,12 +17,12 @@ _Github repo with notes + an article_
 
 ## Table of Contents
 _For a draft online hackathon how-to textbook_
-# Part One: Introduction
+### Part One: Introduction
 
-# Part Two: Planning and Processes
+### Part Two: Planning and Processes
 
-# Part Three: Computing and Technical Issues
+### Part Three: Computing and Technical Issues
 
-# Part Four: People and Teams
+### Part Four: People and Teams
 
-# Part Five: Outputs and Documentation
+### Part Five: Outputs and Documentation
