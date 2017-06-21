@@ -50,13 +50,13 @@ Reaching all the relevant people
 #### Basic elements
 **Time** - how long to have a hackathon?
 
-|-----|-----|-----|
+
 | Option | Pros | Cons |
-|-----|-----|-----|
+|--------|------|------|
 | The 24 hr model. |  Less up front commitment, since it is over after a day (though need time to recover?) |  Problem with productivity - what are people really doing at 2am? |
 | The 3-day model |  Everyone gets to sleep, focus productivity during day. | Harder to recruit, since participants have to take three days off work, other work builds up. |
-|-----| Time for socialising and team building |-----|
-|-----|-----|-----|
+| ---   | Time for socialising and team building | --- |
+
 
 
 
