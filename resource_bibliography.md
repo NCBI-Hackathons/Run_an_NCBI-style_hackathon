@@ -1,23 +1,13 @@
-# Annotated Bibliography for Hackathon Resources
+# Annotated Bibliography of Hackathon Resources
 
----
-format:
 
-Resource name
-[URL](url)
-Description / why you would use it
-Docs?
----
-
-Slack
-https://slack.com/
+[Slack](https://slack.com/)
 - Great for team communication and collaboration
 - Available in web, mobile, and desktop apps
 - Docs, https://get.slack.help/hc/en-us
 
 
-Markdown
-https://daringfireball.net/projects/markdown/
+[Markdown](https://daringfireball.net/projects/markdown/)
 - Lightweight markup language
 - Great for quickly writing structured information
 - Some markdown cheat sheets include:
@@ -25,23 +15,20 @@ https://daringfireball.net/projects/markdown/
   - https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet
 
 
-Trello
-http://trello.com/
+[Trello](http://trello.com/)
 - Web-based project management app
 - Great for keeping track of project tasks
 - Docs, http://help.trello.com/
 
 
-git
-https://git-scm.com/
+[git](https://git-scm.com/)
 - Version control system
 - Great for maintaining project files that change over time
 - Easily distribute source code and other project files
 - Docs, https://git-scm.com/doc
 
 
-GitHub
-https://github.com
+[GitHub](https://github.com)
 - A git server service with built in collaboration tools
 - Free for public/open source projects; free private projects for students and educators
 - Great place to search for existing software
@@ -49,19 +36,16 @@ https://github.com
 - Docs, https://support.github.com/
 
 
-Travis CI
-https://travis-ci.org/
+[Travis CI](https://travis-ci.org/)
 - Continuous integration service used to build and test software projects hosted at GitHub
 - Docs, https://docs.travis-ci.com/
 
 
-Stack Overflow
-https://stackoverflow.com/
+[Stack Overflow](https://stackoverflow.com/)
 - Question and answer site for troubleshooting software issues
 
 
-AWS (Amazon Web Services)
-https://aws.amazon.com/
+[AWS (Amazon Web Services)](https://aws.amazon.com/)
 - Suite of on-demand cloud computing tools
 - See especially:
   - S3, https://aws.amazon.com/s3/
