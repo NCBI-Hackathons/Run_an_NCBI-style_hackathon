@@ -1,7 +1,7 @@
 # Designing a Curriculum for Collaborative Computational Development
 A curriculum for data librarians to teach data scientists about data discovery, transfer, and management
 
-## Objective: 
+## Objective:
 __To develop a general curriculum for collaboratively developing computational biology pipelines__
 ## Our Plan:
 * Observe groups/projects over time, especially
@@ -26,7 +26,7 @@ _For a draft online hackathon how-to textbook_
 
 ### [Part Three: Computing and Technical Issues](https://github.com/NCBI-Hackathons/Librarian_led_Data_Scientist_training/blob/master/technological%20issues.md)
 * Infrastructure
-* Tools and technologies
+* [Tools and technologies](tools.md)
 
 ### [Part Four: People and Teams](https://github.com/NCBI-Hackathons/Librarian_led_Data_Scientist_training/blob/master/outputs.md)
 * Team composition and roles
