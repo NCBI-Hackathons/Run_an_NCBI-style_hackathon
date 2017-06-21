@@ -1,25 +1,34 @@
 # Organizing and setting up the hackathon
 ```Written by: Peter Oxley```
 
-## Selecting Topics
+## Creating hackathon projects
 **By request: Some people will have projects they want to lead**
 Seeking out people that have a project they would like to contribute to in the hackathon environment provides several benefits for the organizer. 
 
 * The topics come with a better-defined scope.
 * There is an obvious choice for team lead (this is not necessary however, if a more experienced team lead with relevant background knowledge is available for the project.)
 * There will be someone on the team that has a high level of knowledge
-* Project Description: What need will your project fulfill? What do you want its functionality to be?
-* General Project Goals: What do you want the end product to be, and how do you want to get there?
-* What are your strengths, and what types of skills might you rely on your team members for? : If you're going to need a proficient programmer in a given language, tell us about it here.
-* Please specify any atypical software you may need.
-* I anticipate my project will involve more than 3TB of data
 
+* Questions to ask to develop a project (and to help identify potential participants):
+    * Project Description
+        * What need will your project fulfill? 
+        * What do you want its functionality to be?
+    * General Project Goals 
+        * What do you want the end product to be? 
+        * how do you want to get there?
+    * Team skills
+        * What are your strengths?
+        * What types of skills might you rely on your team members for?
+    * Resources
+        * Atypical software the project will require.
+        * Compute resources required: RAM, disk space
+         
 **By relevance: How do we define a good problem**
 Especially for hackathons designed to introduce people to the process, it is useful to deliberately design projects that do not require prior bioinformatics, programming or software experience. These projects can be flagged as "low-hanging-fruit". Examples include documentation updates, clarifying error messages, copying and modifying tests.
  
-## Selecting Participants
+## Gathering participants
 #### Advertising
-Reaching all the relevant people
+Reaching all the relevant people. How early should the advertising begin?
 
 * blogs
 * social media (Twitter, facebook, etc)
@@ -31,7 +40,8 @@ Reaching all the relevant people
 
 
 #### Inviting
-* Team lead
+
+    
 * Forms: Data to collect:
     * questions from June Hackathon's form
         * Do you have a working knowledge of shell scripting?
@@ -51,10 +61,24 @@ Reaching all the relevant people
  
 #### Filtering
 * Criteria
-* Number of participants - factor in a 10% drop-out rate
-* Required knowledge - depends on the topic
+    * basic knowledge of command line
+* Number of participants - factor in a 10% drop-out rate when creating inclusion list
+    * Create an A, B and C list, so that when an individual drops out of the event, there is a shortlist ready to bring in a replacement quickly.
+    
+
+* Required knowledge - depends on the topic. 
+    * coding language
+    * software knowledge
+    * research domain knowledge
 * team leads could be involved in this process?
 
+* Identifying team leads. These people will organize, delegate and ensure effective communication among team members. The following attributes will frequently indicate a good choice for team lead:
+    * author of project proposal
+    * prior experience leading hackathon teams
+    * prior hackathon participation
+    * domain expertise (software, coding or scientific)
+    
+    
 ## Creating a schedule
 #### Basic elements
 **Time** - how long to have a hackathon?
@@ -65,8 +89,6 @@ Reaching all the relevant people
 | 24 hr model. |  Less up front commitment, since it is over after a day (though need time to recover?) |  Problem with productivity - what are people really doing at 2am? |
 | 3-day model |  Everyone gets to sleep, focus productivity during day. | Harder to recruit, since participants have to take three days off work, other work builds up. |
 | ---   | Time for socialising and team building | --- |
-
-
 
 
 
@@ -154,13 +176,30 @@ Common workspaces for documentation collaboration
 Identifying existing software/libraries that can be built upon
  
 # Running the hackathon
+The majority of projects will cease to be developed at the end of the Hackathon. Therefore, it is paramount that by the end of the event, the code is deposited in a public repository, developed to a useable degree, and well documented. 
+
 * Metadata
 * Data Acquisition
 * Data Normalization
 * Downstream Analysis 
     * (Statistics)
-* Documentation 
-    * Code and text summaries
+
+## Documentation 
+Documentation allows code to be understood, installed and used, debugged and error checked, and extended. Without documentation, an application is unlikely to become utilized by the research community. However, documentation is frequently a low priority of development teams. It is therefore important for the event manager/coordinator to build into the program education about the importance of documenting things, education of people in how to document, and sessions to inspect the current level of documentation, and to provide correction.
+
+Elements that need to be documented include: 
+* Code 
+* Package dependencies
+* Installation instructions
+* Usage instructions
+* Data formats and standards applied
+
+#### Assign document writers in each team
+Each team designates a writer to ensure documentation is captured and published.
+
+#### Tracking documentation progress
+Implement writer breakout sessions to ensure documentation is on track, following appropriate standards, troubleshoot any issues.
+    
 * Discussion of Output
     * Update sessions / group presentations
     * Github
@@ -168,6 +207,8 @@ Identifying existing software/libraries that can be built upon
     * Publishing
         *  Journal Strategy Selection
         *  Advertising and social media
+
+
  
 # Hackathon follow up
 ## Publication
