@@ -1,7 +1,13 @@
-# Organizing and setting up the hackathon
+# 1. Organizing and setting up the hackathon
 ```Written by: Peter Oxley```
 
-## Creating hackathon projects
+## 1.1 Creating hackathon projects
+#### Identifying the goals of the event
+* development of useful applications, code libraries, databases.
+* networking and establishment of long-term, inter-disciplinary collaborations.
+* education of participants in application development process
+* building teamwork and leadership skills (hackathon process can be adapted for other domains, such as in a laboratory setting (especially in computer science), where postdocs become team lead for a week-long hackathon in lab, with the lead rotating through all postdocs in the lab.
+
 **By request: Some people will have projects they want to lead**
 Seeking out people that have a project they would like to contribute to in the hackathon environment provides several benefits for the organizer. 
 
@@ -26,7 +32,7 @@ Seeking out people that have a project they would like to contribute to in the h
 **By relevance: How do we define a good problem**
 Especially for hackathons designed to introduce people to the process, it is useful to deliberately design projects that do not require prior bioinformatics, programming or software experience. These projects can be flagged as "low-hanging-fruit". Examples include documentation updates, clarifying error messages, copying and modifying tests.
  
-## Gathering participants
+## 1.2 Gathering participants
 #### Advertising
 Reaching all the relevant people. How early should the advertising begin?
 
@@ -41,7 +47,7 @@ Reaching all the relevant people. How early should the advertising begin?
 
 #### Inviting
 
-    
+
 * Forms: Data to collect:
     * questions from June Hackathon's form
         * Do you have a working knowledge of shell scripting?
@@ -79,7 +85,7 @@ Reaching all the relevant people. How early should the advertising begin?
     * domain expertise (software, coding or scientific)
     
     
-## Creating a schedule
+## 1.3 Creating a schedule
 #### Basic elements
 **Time** - how long to have a hackathon?
 
@@ -143,7 +149,7 @@ Day 3
 
 ```
 
-## Preparation of resources  
+## 1.4 Preparation of resources  
 #### Information sheets, instructions and tutorials
 
 * instructional "how to" for beginners. Include all the fundamental processes useful in a collaborative computing exercise, including:
@@ -175,16 +181,17 @@ Common workspaces for documentation collaboration
 
 Identifying existing software/libraries that can be built upon
  
-# Running the hackathon
+# 2. Running the hackathon
 The majority of projects will cease to be developed at the end of the Hackathon. Therefore, it is paramount that by the end of the event, the code is deposited in a public repository, developed to a useable degree, and well documented. 
 
-* Metadata
-* Data Acquisition
-* Data Normalization
-* Downstream Analysis 
-    * (Statistics)
+## 2.1 Coordinating the event (aka maintaining momentum)
+* Keeping enthusiasm high is key. Once a team loses motivation, productivity will plummet. If people leave (for negative inter-personal reasons), it will be disastrous for team morale and productivity. 
+* Event coordinator must identify team communication blocks early, and have the ability to diffuse tension and facilitate problem solving.
+* The coordinator will not have the capacity to become deeply involved in the development or troubleshooting of any given project. They will not likely do any but the most cursory of coding.
+* Coordinator should be aware of their audience, and the expected etiquette for interaction (eg, appropriate dress code for coordinator - typically slightly more formal than the average expected participant).
+* Will need to keep track of who may decide to leave, and identify the issue that caused the participant to make this decision. It is then the coordinator's responsibility to ensure that the issue is addressed.
 
-## Documentation 
+## 2.2 Documentation 
 Documentation allows code to be understood, installed and used, debugged and error checked, and extended. Without documentation, an application is unlikely to become utilized by the research community. However, documentation is frequently a low priority of development teams. It is therefore important for the event manager/coordinator to build into the program education about the importance of documenting things, education of people in how to document, and sessions to inspect the current level of documentation, and to provide correction.
 
 Elements that need to be documented include: 
@@ -199,7 +206,7 @@ Each team designates a writer to ensure documentation is captured and published.
 
 #### Tracking documentation progress
 Implement writer breakout sessions to ensure documentation is on track, following appropriate standards, troubleshoot any issues.
-    
+
 * Discussion of Output
     * Update sessions / group presentations
     * Github
@@ -208,11 +215,27 @@ Implement writer breakout sessions to ensure documentation is on track, followin
         *  Journal Strategy Selection
         *  Advertising and social media
 
+## 2.3 Meal breaks 
+
+
+####################
+* Metadata
+* Data Acquisition
+* Data Normalization
+* Downstream Analysis 
+    * (Statistics)
 
  
-# Hackathon follow up
-## Publication
-## Surveys
+# 3. Hackathon follow up
+## 3.1 Publication
+## 3.2 Surveys
 #### Discussion points collected during hackathon (via face-to-face and Slack channel):
  
-## Debugging, polishing code, testing
+## 3.3 Debugging, polishing code, testing
+
+## 3.4 Handing on the baton
+This section deals with how to ensure that the code can continue to be built, tested, improved and extended. This process begins during the final hours of the hackathon, and is in some respects never finished. But there are certain milestones that can be set in terms of finalizing the effort begun during the day(s) of the hackathon:
+1. Assigning who is responsible for administering pull requests, and reported issues.
+2. Finishing testing and debugging with sample datasets
+3. Publishing the package in an open-science, peer-reviewed journal (eg. F1000)
+4. Handing over or leading extension at the next hackathon
