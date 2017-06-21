@@ -21,6 +21,15 @@ Especially for hackathons designed to introduce people to the process, it is use
 #### Advertising
 Reaching all the relevant people
 
+* blogs
+* social media (Twitter, facebook, etc)
+    * identify social groups to target announcements to
+* conferences
+* project lists, listservs
+* web page
+    * NCBI hackathon has a specific web page to list all confirmed hackathon events
+
+
 #### Inviting
 * Team lead
 * Forms: Data to collect:
@@ -53,8 +62,8 @@ Reaching all the relevant people
 
 | Option | Pros | Cons |
 |--------|------|------|
-| The 24 hr model. |  Less up front commitment, since it is over after a day (though need time to recover?) |  Problem with productivity - what are people really doing at 2am? |
-| The 3-day model |  Everyone gets to sleep, focus productivity during day. | Harder to recruit, since participants have to take three days off work, other work builds up. |
+| 24 hr model. |  Less up front commitment, since it is over after a day (though need time to recover?) |  Problem with productivity - what are people really doing at 2am? |
+| 3-day model |  Everyone gets to sleep, focus productivity during day. | Harder to recruit, since participants have to take three days off work, other work builds up. |
 | ---   | Time for socialising and team building | --- |
 
 
@@ -109,6 +118,7 @@ Day 3
                 Who is going to deal with future pull requests?
                 Awards ceremony!
 5:00 - 6:45:    Final Presentations (5 slides per group)
+
 ```
 
 ## Preparation of resources  
@@ -134,6 +144,13 @@ __see chapter on technical issues__
 For testing 
  
 #### Libraries and software
+Common workspaces for documentation collaboration
+
+* google doc set up for the manuscript (eg F1000) template
+* F1000 workspace subscription, with teams established
+    * allows teams to save bibliography
+    * allows citation and bibliography generation in google docs
+
 Identifying existing software/libraries that can be built upon
  
 # Running the hackathon
