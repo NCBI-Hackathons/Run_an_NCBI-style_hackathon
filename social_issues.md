@@ -21,6 +21,7 @@ We therefore propose to use the Team-based learning (TBL) paradigm to describe a
     * Team-Based Hackathon experience
     * ability to collaborate and share expertise
     
+
 The TBH curriculum focuses on more than an development of WGS data implementation tools.  It addresses the need for researchers to work in teams, utilizing sophisticated levels of interpersonal skills allowing them to collaborate effectively as members of an interdisciplinary team of researchers.  
 
 The context of our TBH curriculum framework is on solving WGS analytical and logistical problems, which arise due to the increasingly large volume of WGS data. 
