@@ -1,19 +1,13 @@
-# Designing a Curriculum for Collaborative Computational Development
-A curriculum for data librarians to teach data scientists about data discovery, transfer, and management
+# Collaborative Computational Development: Running an NCBI-Style Hackathon
+This document provides guidance on how to run an [NCBI-style hackathon](https://f1000research.com/articles/5-672/v2). The original document was developed during the June 2017 hackathon held at the New York Genome Center.  We invite members of the community to make edits and additions by submitting pull requests.
 
 ## Objective:
-__To develop a general curriculum for collaboratively developing computational biology pipelines__
-## Our Plan:
+__To provide guidance for collaboratively developing computational biology pipelines through NCBI-style hackathons__
+## Our Method:
 * Observe groups/projects over time, especially
 * How objectives change over time
 * The skills / software / processes required
 * How groups communicate, interact
-
-## Deliverables:
-_Github repo with notes + an article_
-* Learning objectives
-* Required expertise
-* Some intangibles about human behavior and interactions
 
 ## Table of Contents
 _For a draft online hackathon how-to textbook_
