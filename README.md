@@ -11,10 +11,10 @@ This document provides guidance on how to run an [NCBI-style hackathon](https://
 ## Objective:
 __To provide guidance for collaboratively developing computational biology pipelines through NCBI-style hackathons__
 ## Our Method:
-* Observe groups/projects over time, especially
-* How objectives change over time
-* The skills / software / processes required
-* How groups communicate, interact
+* Observe groups and projects over time, especially:
+  * How objectives and the scope of the project changes over time;
+  * The skills, software, processes required to run a successful hackathon/group;
+  * How groups interact and communicate.
 
 ## Table of Contents
 _For a draft online hackathon how-to textbook_
