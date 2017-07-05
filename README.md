@@ -1,5 +1,12 @@
 # Collaborative Computational Development: Running an NCBI-Style Hackathon
-This document provides guidance on how to run an [NCBI-style hackathon](https://f1000research.com/articles/5-672/v2). The original document was developed during the June 2017 hackathon held at the New York Genome Center.  We invite members of the community to make edits and additions by submitting pull requests.
+This document provides guidance on how to run an [NCBI-style hackathon](https://f1000research.com/articles/5-672/v2). We invite members of the community to make edits and additions by submitting pull requests. The original document was developed by a team during the June 2017 hackathon held at the New York Genome Center:
+
+Team lead: Lisa Federer
+Dmitry Brogun
+Peter Oxley
+Franklin Sayre
+Brian Zelip
+
 
 ## Objective:
 __To provide guidance for collaboratively developing computational biology pipelines through NCBI-style hackathons__
