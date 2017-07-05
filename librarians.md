@@ -17,4 +17,4 @@ Librarians could support documentation. Specifically, aside from helping teams d
 Librarians, especially those involved in supporting computation research and data, often have extensive knowledge of open tools and resources that interested teams could utilize. 
 
 ## Sharing outcomes 
-As done during the NCBI Hackathons by NIH Data Informationist Lisa Federer, librarians could support teams documenting the outcomes of their projects in journal articles by creating templates for publication. 
+At previous NCBI hackathons, librarians have provided support for teams in documenting the outcomes of their projects in journal articles, including editing assistance, advising on citation formats, and submission assistance.
