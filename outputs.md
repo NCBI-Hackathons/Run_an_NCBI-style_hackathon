@@ -1,0 +1,8 @@
+# Hackathon Outputs and Documentation 
+While the primary goal of a hackathon is to create pipelines and solve computational problems, an important secondary goal is the documentation of the work of the team.  Ideally, teams will develop software that can be adopted by the community and used widely beyond the scope of the hackathon.  In order to make this possible, teams need to think about how to make their new tools available and visible to potential users.  In addition, teams should consider what documentation will be needed to enable others to use their new tool.  This documentation may be as simple a Github README file or as complex as a user manual or tutorial.  Depending on the type of tool and its level of completeness at the end of a hackathon, a variety of outlets may be appropriate to provide this documentation and publicize the tool.
+
+## Github README
+It is best practice for every Github repo, whether associated with a hackathon or not, to have a [README file](https://help.github.com/articles/about-readmes/), which is displayed on the front page of the repo.  README files are written in markdown, which can be used to create formatting to make the document attractive and functional.  Those who are less familiar with markdown may find the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) useful. 
+
+The README file should contain crucial information about the contents of the repo, including what the software does, how to use it, and who maintains it.  In addition to providing the important details a user will need to be able to use the software, the README can be thought of as a brief "advertisement" for the software.  Why is this tool exciting and useful?
+
