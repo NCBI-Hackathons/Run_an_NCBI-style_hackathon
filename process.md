@@ -195,11 +195,20 @@ The majority of projects will cease to be developed at the end of the Hackathon.
 Documentation allows code to be understood, installed and used, debugged and error checked, and extended. Without documentation, an application is unlikely to become utilized by the research community. However, documentation is frequently a low priority of development teams. It is therefore important for the event manager/coordinator to build into the program education about the importance of documenting things, education of people in how to document, and sessions to inspect the current level of documentation, and to provide correction.
 
 Elements that need to be documented include: 
-* Code 
+* 1 sentence description/summary of the project
+* implementation button - get to the application obviously and easily
+* link toc to all elements
+
+* description
+* background
+* Code link
 * Package dependencies
-* Installation instructions
+* Installation instructions/implementation
 * Usage instructions
 * Data formats and standards applied
+* lots of images of results
+
+
 
 #### Assign document writers in each team
 Each team designates a writer to ensure documentation is captured and published.
@@ -216,7 +225,7 @@ Implement writer breakout sessions to ensure documentation is on track, followin
         *  Advertising and social media
 
 ## 2.3 Meal breaks 
-
+Maintaining hydration and blood sugar levels is important for focus and productivity. Thus it is important to stress to participants the need to take breaks and eat and drink. This will be more likely adhered to if nutrition is easily available and/or free.
 
 ####################
 * Metadata
@@ -225,9 +234,13 @@ Implement writer breakout sessions to ensure documentation is on track, followin
 * Downstream Analysis 
     * (Statistics)
 
- 
+
 # 3. Hackathon follow up
 ## 3.1 Publication
+* Provide F1000 template for all teams to build their ms during the event.
+* Make sure there are figures!
+* Don't forget suggested reviewers
+
 ## 3.2 Surveys
 #### Discussion points collected during hackathon (via face-to-face and Slack channel):
  
@@ -235,6 +248,7 @@ Implement writer breakout sessions to ensure documentation is on track, followin
 
 ## 3.4 Handing on the baton
 This section deals with how to ensure that the code can continue to be built, tested, improved and extended. This process begins during the final hours of the hackathon, and is in some respects never finished. But there are certain milestones that can be set in terms of finalizing the effort begun during the day(s) of the hackathon:
+
 1. Assigning who is responsible for administering pull requests, and reported issues.
 2. Finishing testing and debugging with sample datasets
 3. Publishing the package in an open-science, peer-reviewed journal (eg. F1000)
