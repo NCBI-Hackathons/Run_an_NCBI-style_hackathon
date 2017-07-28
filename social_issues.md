@@ -10,7 +10,9 @@ We therefore propose to use the Team-based learning (TBL) paradigm to describe a
 
 
 ## 1.1 Learning objectives
+
 * how to run a Team Based Hackathon (TBH)
+
 * reproducibility 
 
 ## 1.2 Learning tools
@@ -26,9 +28,6 @@ The TBH curriculum focuses on more than just development of WGS data implementat
 
 The context of our TBH curriculum framework is on solving WGS analytical and logistical problems, which arise due to the increasingly large volume of WGS data. 
 
- 
-
-=======
 ## 1.4 Pain points
 That is, difficulties to address, overcome, or mitigate.
 
@@ -46,3 +45,9 @@ That is, difficulties to address, overcome, or mitigate.
 # 5. Team-Peer Evaluations
 
 
+
+# 2. Team dynamics during a hackathon
+* connecting researcher and computer scientist
+    * communicating knowledge
+    * coordinating ideas and approaches
+* How to get teams motivated and enthusiastic for the work
