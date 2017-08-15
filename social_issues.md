@@ -44,10 +44,3 @@ That is, difficulties to address, overcome, or mitigate.
 
 # 5. Team-Peer Evaluations
 
-
-
-# 2. Team dynamics during a hackathon
-* connecting researcher and computer scientist
-    * communicating knowledge
-    * coordinating ideas and approaches
-* How to get teams motivated and enthusiastic for the work
